@@ -1,0 +1,67 @@
+.subcribe_main {
+    text-align: center;
+    margin-top: 140px;
+}
+
+.subcribe_title {
+    color: #313131;
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 56px;
+    /* 103.704% */
+    text-transform: capitalize;
+    width: 462px;
+    margin: 0 auto;
+
+}
+
+.subcribe_para {
+    color: #6B6B6B;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 556px;
+    margin: 0 auto;
+    margin-top: 40px;
+    /* 140% */
+}
+
+.scribe_btn {
+    text-decoration: none;
+    display: inline-block;
+    color: #0a0909;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    transition: .4s;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 18px 52px;
+    border: 1px solid#18A7B9;
+    border-radius: 40px 5px;
+    box-shadow: 0px 1.85185px 3.14815px 0px rgba(24, 167, 185, 0.02), 0px 8.14815px 6.51852px 0px rgba(24, 167, 185, 0.04), 0px 20px 13px 0px rgba(24, 167, 185, 0.05), 0px 38.51852px 25.48148px 0px rgba(24, 167, 185, 0.06), 0px 64.81481px 46.85185px 0px rgba(24, 167, 185, 0.08);
+   
+}
+.icon_divs{
+    position: relative;
+    margin-top: 40px;
+}
+.sucrib_icon{
+    position: absolute;
+    top: 21px;
+    left: 633px;
+    
+}
+.scribe_btn:hover{
+    color: #ffff;
+    background: #18A7B9;
+}
+.scribe_btn:hover.sucrib_icon{
+    color: #fff !important;
+}

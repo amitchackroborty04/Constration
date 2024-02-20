@@ -1,0 +1,89 @@
+.fotter_flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 160px;
+    margin-bottom: 70px;
+}
+
+.fotter_title {
+    color: #18A7B9;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -1.5px;
+    margin-bottom: 30px;
+}
+
+.fotter_para {
+    color: #6B6B6B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 236px;
+    margin-bottom: 40px;
+
+    /* 175% */
+}
+
+.sub_ftitle {
+    color: #313131;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.subf_para {
+    color: #6B6B6B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 39px;
+}
+
+.subf_para2 {
+    color: #6B6B6B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 18px;
+}
+
+.f_inpmail {
+    padding: 13px 12px;
+    width: 174px;
+    background: #FAFAFA;
+    border: none;
+    border-radius: 4px;
+}
+
+.f_inpmail::placeholder {
+    color: #6B6B6B;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.foller_email{
+    position: relative;
+    margin-top: 37px;
+}
+.fotter_icon{
+    color: #18A7B9;
+    padding: 3px 3px;
+    border: 4px solid#18A7B9;
+    border-radius: 50%;
+    position: absolute;
+    top: 6px;
+    right: 12px;
+}

@@ -1,0 +1,107 @@
+.contact_main {
+    text-align: center;
+    margin-top: 69px;
+}
+
+.contact_title1 {
+    color: #313131;
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    margin-bottom: 30px;
+    /* 103.704% */
+}
+
+.contact_para {
+    color: #6B6B6B;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 672px;
+    margin: 0 auto;
+    /* 140% */
+}
+
+.cont_flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 151px;
+}
+
+.cont_input {
+    padding: 20px 24px;
+    width: 489px;
+    border-radius: 7px;
+    background: #F9F9F9;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.cont_input::placeholder {
+    color: #6B6B6B;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.msg_input {
+    padding-left: 24px;
+    padding-bottom: 153px;
+    padding-top: 20px;
+    background: #F9F9F9;
+    border-radius: 7px;
+    border: none;
+    width: 489px;
+}
+
+.msg_input::placeholder {
+    color: #6B6B6B;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.map_img {
+    width: 100%;
+}
+
+.cont_btn {
+    text-decoration: none;
+    display: inline-block;
+    color: #18A7B9;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.5px;
+    padding: 22px 61px;
+    border: 1px solid#18A7B9;
+    border-radius: 40px 5px;
+    margin-top: 40px;
+    transition: .4s;
+}
+.cont_btn:hover{
+    background: #18A7B9;
+    color: #ffff;
+}
+
+
+
+
+
+
+
+.hudai {
+    height: 1000px;
+}

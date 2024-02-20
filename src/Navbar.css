@@ -1,0 +1,46 @@
+
+/* .ccontiner{
+    max-width: 1170px;
+    margin: 0 auto;
+} */
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex2 {
+    display: flex;
+    gap: 36px;
+}
+
+.navitm {
+    list-style: none;
+    color: #313131;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: n ormal;
+    font-weight: 400;
+    line-height: normal;
+    transition: .4s;
+
+}
+
+.navitm:hover {
+    font-weight: 600;
+}
+
+.logo {
+    color: #18A7B9;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -1.5px;
+    margin-top: -130px;
+}
+.navbar{
+    position: relative ;
+    z-index: 99;
+}
